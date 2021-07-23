@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h2> I'm Jose David! <img src="https://media.giphy.com/media/3o7aDdizPU860V8bx6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/gOQ6EgtAiwXde/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="https://www.umsa.bo/">Universidad Mayor de San Andres</a></br>Developer Consultant at <a href="https://jalasoft.com/">Jalasoft</a><img src="https://media.giphy.com/media/StDkRr83yvAxG/giphy.gif" width="50"> 
+<p><em>Software Enginner at <a href="https://www.umsa.bo/">Universidad Mayor de San Andres</a></br>Developer Consultant at <a href="https://tutator.net/">Tutator</a><img src="https://media.giphy.com/media/StDkRr83yvAxG/giphy.gif" width="50"> 
 </em></p>
 
 [![GitHub mqJose](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/mqJose)
