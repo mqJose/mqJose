@@ -34,7 +34,7 @@ const jodamaqui = {
       frontend: [React, Angular, VanillaJs,],
       design: [cssPure, Tailwindcss, Bootstrap, Styled, Figma, UX / UI],
       backend: [
-        NodeJs, Nestjs, Loopback, Express, SpringBoot, Django, Flask, Laravel, Lumen
+        NodeJs, Nestjs, Loopback, Express, SpringBoot, Django, Flask, Laravel,
       ],
       testing: [Jasmine, Jest, Enzyme, Cypress],
       automation: [githubActions, JMeter, Selenium],
