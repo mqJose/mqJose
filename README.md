@@ -51,7 +51,7 @@ const jodamaqui = {
 }
 ```
 
-<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em><img src="https://media.giphy.com/media/3o85xxpDp9J4Jlv62Q/giphy.gif" width="100" align='right'>
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
 
