@@ -30,7 +30,7 @@ const jodamaqui = {
     languages: [Javascript, Typescript, HTML, CSS, Python, Java, Dart, php],
     technologies: {
       frontend: [ReactJs, Angular, VanillaJs,],
-      design: [cssPure, Tailwindcss, Bootstrap, Styled, Figma, UX / UI],
+      design: [cssPure, Tailwindcss, Bootstrap, Styled, Figma, 'UX/UI'],
       backend: [
         NodeJs, Nestjs, Loopback, Express, SpringBoot, Django, Flask, Laravel,
       ],
