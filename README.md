@@ -13,13 +13,13 @@ const jodamaqui = {
   code: {
     languages: [Javascript, Typescript, HTML, CSS, Python, Java, Dart, php],
     technologies: {
-      frontend: [ReactJs, Angular, VanillaJs, ReactNative, Ionic],
+      frontend: [ReactJs, Angular, VanillaJs, ReactNative, Ionic, fluter],
       design: ['CSS Pure', Tailwindcss, Bootstrap, Styled, Figma, 'UX/UI'],
       backend: [
         NodeJs, Nestjs, Loopback, Express, SpringBoot, Django, Flask, Laravel,
       ],
       testing: [Jasmine, Jest, Enzyme, Cypress],
-      automation: [githubActions, JMeter, Selenium],
+      automation: [githubActions, JMeter],
       devOps: [AWS, Docker, Kubernetes, OpenShift],
       adminitration: [Trello, Jira, ClickUp, 'FocusTo-Do', Scrum, Kanban]
     }
