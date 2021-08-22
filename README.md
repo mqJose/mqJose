@@ -20,7 +20,7 @@ const jodamaqui = {
       ],
       testing: [Jasmine, Jest, Enzyme, Cypress],
       automation: [githubActions, JMeter],
-      devOps: [AWS, Docker, Kubernetes, OpenShift],
+      devOps: [AWS, Docker, Kubernetes, OpenShift, GCP, 'IBM Cloud'],
       adminitration: [Trello, Jira, ClickUp, 'FocusTo-Do', Scrum, Kanban]
     }
   },
