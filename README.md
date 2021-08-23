@@ -30,7 +30,7 @@ const jodamaqui = {
     "design system pattern", 
     "JamStack"
   ],
-  companies: "JD7 Company",
+  companies: "JD7",
   challenge: "I am focused on react, loopback4 on typescript now"
 }
 ```
