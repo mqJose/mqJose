@@ -16,7 +16,7 @@ const jodamaqui = {
       frontend: [ReactJs, Angular, VanillaJs, ReactNative, Ionic, fluter],
       design: ['CSS Pure', Tailwindcss, Bootstrap, Styled, Figma, 'UX/UI'],
       backend: [
-        NodeJs, Nestjs, Loopback, Express, SpringBoot, Django, Flask, Laravel,
+        NodeJs, Nestjs, Loopback 4, Express, SpringBoot, Django, Flask, Laravel,
       ],
       testing: [Jasmine, Jest, Enzyme, Cypress],
       automation: [githubActions, JMeter],
