@@ -18,17 +18,19 @@ const jodamaqui = {
       backend: [
         NodeJs, Nestjs, Loopback 4, Express, SpringBoot, Django, Flask, Laravel,
       ],
-      testing: [Jasmine, Jest, Enzyme, Cypress],
-      automation: [githubActions, JMeter],
-      devOps: [AWS, Docker, Kubernetes, OpenShift, GCP, 'IBM Cloud'],
-      adminitration: [Trello, Jira, ClickUp, 'FocusTo-Do', Scrum, Kanban]
+      testing: [Jasmine, Jest, Enzyme],
+      automation: [githubActions, JMeter, Cypress],
+      qa: [case test, Mantis],
+      devOps: [AWS, Docker, Kubernetes, OpenShift, GCP, IBMCloud],
+      adminitration: [Trello, Jira, ClickUp, FocusToDo, Scrum, Kanban]
     }
   },
   architecture: [
     "microservices", 
+    "SOLID",
     "event-driven", 
     "design system pattern", 
-    "JamStack"
+    "jam stack"
   ],
   companies: "JD7",
   challenge: "I am focused on react, loopback4 on typescript now"
