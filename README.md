@@ -23,7 +23,7 @@ const jodamaqui = {
       qa: [case test, Mantis],
       devOps: [AWS, Docker, Kubernetes, OpenShift, GCP, IBMCloud],
       adminitration: [Trello, Jira, ClickUp, FocusToDo, Scrum, Kanban],
-      others: [GraphQL, ApolloClient, ApolloServer]
+      others: [GraphQL, ApolloClient, ApolloServer, Webpack, Esbuild]
     }
   },
   architecture: [
