@@ -34,7 +34,9 @@ const jodamaqui = {
     "jam stack"
   ],
   companies: "JD7",
-  services:[Inventory, CRM, ERP, BPM, RRHH, Accounting, Website, Stocktaking],
+  services:[
+    Inventory, CRM, ERP, BPM, RRHH, Accounting, Website, Stocktaking
+   ],
   challenge: "I am focused on react, loopback4 on typescript now"
 }
 ```
