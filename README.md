@@ -13,7 +13,9 @@ const jodamaqui = {
   code: {
     languages: [Javascript, Typescript, HTML, CSS, Python, Java, Dart, php],
     technologies: {
-      frontend: [ReactJs, Angular, VanillaJs, ReactNative, Ionic, fluter],
+      frontend: [
+        ReactJs, Angular, VanillaJs, ReactNative, Ionic, fluter
+      ],
       design: ['CSS Pure', Tailwindcss, Bootstrap, Styled, Figma, 'UX/UI'],
       backend: [
         NodeJs, Nestjs, 'Loopback 4', Express, Prisma, SpringBoot, Flask, Laravel
