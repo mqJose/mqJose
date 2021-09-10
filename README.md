@@ -24,7 +24,9 @@ const jodamaqui = {
       automation: [githubActions, JMeter, Cypress],
       qa: ['Case Tests', Mantis],
       devOps: [AWS, Docker, Kubernetes, OpenShift, GCP, IBMCloud],
-      adminitration: [Trello, Jira, ClickUp, FocusToDo, Scrum, Kanban],
+      adminitration: [
+        Trello, Jira, ClickUp, FocusToDo, Scrum, Kanban
+      ],
       others: [GraphQL, ApolloClient, ApolloServer, Webpack, Esbuild]
     }
   },
