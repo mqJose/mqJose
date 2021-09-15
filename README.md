@@ -11,8 +11,11 @@
   </a>
   -->
 </em></p>
+
 [![GitHub mqJose](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/mqJose)
+
 ### A little more about me...  
+
 ```javascript
 const jodamaqui = {
   code: {
@@ -49,6 +52,7 @@ const jodamaqui = {
   challenge: "I am focused on react, loopback4 on typescript now"
 }
 ```
+
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 ---
 ⭐️ From [@mqJose](https://github.com/mqJose)
