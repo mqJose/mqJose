@@ -54,8 +54,10 @@ const jodamaqui = {
 ```
 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
 ---
 ⭐️ From [@mqJose](https://github.com/mqJose)
+
 <!--
 **mqJose/mqJose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
