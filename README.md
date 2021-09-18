@@ -43,7 +43,8 @@ const jodamaqui = {
     "SOLID",
     "event-driven", 
     "design system pattern", 
-    "jam stack"
+    "jamStack",
+    "best practices": []
   ],
   companies: "JD7",
   services:[
