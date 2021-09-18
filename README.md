@@ -40,11 +40,10 @@ const jodamaqui = {
   },
   architecture: [
     "microservices", 
-    "SOLID",
     "event-driven", 
     "design system pattern", 
     "jamStack",
-    "best practices": []
+    "best practices": [YAGNI, SOC, LOD, KISS, SOLID, DRY]
   ],
   companies: "JD7",
   services:[
