@@ -18,6 +18,20 @@
 
 ```javascript
 const jodamaqui = {
+  principles: {
+    YAGNI: "You arent gonna need it", 
+    SOC: "Separation of concerns", 
+    LOD: "Low of demeter", 
+    KISS: "Keep it simple stupid",  
+    DRY: "Dont repeat yourself",
+    SOLID: [
+      "Single Responsability Open",
+      "Closes Principle",
+      "Liskov Substitution",
+      "Interface Segregation",
+      "Dependency Inversion"
+    ] ,
+  },
   code: {
     languages: [Javascript, Typescript, HTML, CSS, Python, Java, Dart, php],
     technologies: {
@@ -43,7 +57,6 @@ const jodamaqui = {
     "event-driven", 
     "design system pattern", 
     "jamStack",
-    "best practices": [YAGNI, SOC, LOD, KISS, SOLID, DRY]
   ],
   companies: "JD7",
   services:[
