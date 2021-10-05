@@ -2,7 +2,7 @@
 <!--
 <img align='right' src="https://media.giphy.com/media/gOQ6EgtAiwXde/giphy.gif" width="230">
 -->
-<p><em>Software Enginner at <a href="https://www.umsa.bo/">Universidad Mayor de San Andres</a>
+<p><em>Software Developer at <a href="https://www.umsa.bo/">Universidad Mayor de San Andres</a>
   </br>
   <!--
   Developer Consultant at 
