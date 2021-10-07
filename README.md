@@ -1,4 +1,4 @@
-<h2>Hello, I'm Jose David! 😄</h2>
+<h2>Hello, I'm Jose David! 🔭</h2>
 <!--
 <img align='right' src="https://media.giphy.com/media/gOQ6EgtAiwXde/giphy.gif" width="230">
 -->
