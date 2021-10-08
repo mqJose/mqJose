@@ -60,7 +60,7 @@ const jodamaqui = {
   ],
   companies: "JD7",
   services:[
-    Inventory, CRM, ERP, BPM, RRHH, Accounting, Website, Stocktaking
+    Inventory, CRM, ERP, BPM, RRHH, Accounting, Website, Stocktaking, Landing-page, Support
    ],
   challenge: "I am focused on react, loopback4 on typescript now"
 }
