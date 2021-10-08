@@ -45,7 +45,7 @@ const jodamaqui = {
       testing: [Jasmine, Jest, Enzyme],
       automation: [githubActions, JMeter, Cypress],
       qa: ['Case Tests', Mantis],
-      devOps: [AWS, Docker, Kubernetes, OpenShift, GCP, IBMCloud, AlibabaCloud],
+      devOps: [AWS, GCP, IBMCloud, ],
       adminitration: [
         Trello, Jira, ClickUp, FocusToDo, Scrum, Kanban
       ],
