@@ -65,7 +65,7 @@ const jodamaqui = {
   challenge: "I am focused on react, loopback4 on typescript now"
 }
 ```
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mqJose&show_icons=true&theme=dark&locale=en&layout=compact" alt="mqJose" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mqJose&show_icons=true&locale=en&layout=compact" alt="mqJose" /></p>
 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
