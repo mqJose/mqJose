@@ -33,17 +33,17 @@ const jodamaqui = {
     ] ,
   },
   code: {
-    languages: [Javascript, Typescript, HTML, CSS, Python, Java, Dart, php],
+    languages: [Javascript, Typescript, HTML, CSS, Python, Java, Dart, Php],
     technologies: {
       frontend: [
-        ReactJs, Angular, VanillaJs, ReactNative, Ionic, flutter
+        ReactJs, Angular, VanillaJs, ReactNative, Ionic, Flutter
       ],
       design: ['CSS Pure', Tailwindcss, Bootstrap, Styled, Figma, 'UX/UI'],
       backend: [
         NodeJs, Nestjs, 'Loopback 4', Expressjs, Prisma, SpringBoot, Flask, Laravel
       ],
       testing: [Jasmine, Jest, Enzyme],
-      automation: [githubActions, JMeter, Cypress],
+      automation: [GithubActions, JMeter, Cypress],
       qa: ['Case Tests', Mantis],
       devOps: [AWS, GCP, IBMCloud, ],
       adminitration: [
